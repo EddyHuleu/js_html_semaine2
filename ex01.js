@@ -1,4 +1,3 @@
-var nom = "Huleu";
-var prenom = "Eddy";
-var ville = "Moulins";
-alert('Nom : '+nom+'\nPrenom : '+prenom+'\nVille : '+ville);
+var prenom;
+prenom = prompt('Quel est ton prénom?');
+alert('Bonjour '+prenom+' .');
